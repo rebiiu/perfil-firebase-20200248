@@ -4,25 +4,25 @@
     "slug": "firebase-app-marcela",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/perrito.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/perrito.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFFFF"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/perrito.png",
+        "backgroundColor": "#FFFFF"
       },
       "package": "com.rebiiu.firebaseappmarcela"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/perrito.png"
     },
     "extra": {
       "eas": {
